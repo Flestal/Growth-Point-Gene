@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GeneDef>
+    <defName>Gene_Growth</defName>
+    <label>Growth Point Gene</label>
+    <labelShortAdj>Growth</labelShortAdj>
+    <description>changes the growth point factor.</description>
+    <iconPath>GPG/GrowthPoint</iconPath>
+    <biostatCpx>1</biostatCpx>
+    <biostatMet>-5</biostatMet>
+    <statFactors>
+      <GrowthPointsFactor>1.0</GrowthPointsFactor>
+    </statFactors>
+  </GeneDef>
+
+</Defs>

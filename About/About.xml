@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Growth Point Genes</name>
+	<author>Flestal</author>
+    <packageId>Flestal.GPG</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Adds a gene that changes the growth point factor.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Biotech</li>
+	</loadAfter>
+</ModMetaData>

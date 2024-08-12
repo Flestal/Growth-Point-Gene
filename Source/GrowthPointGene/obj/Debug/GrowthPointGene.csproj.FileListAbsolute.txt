@@ -1,0 +1,6 @@
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Source\GrowthPointGene\obj\Debug\GrowthPointGene.csproj.AssemblyReference.cache
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Source\GrowthPointGene\obj\Debug\GrowthPointGene.csproj.CoreCompileInputs.cache
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Assemblies\GrowthPointGene.dll
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Assemblies\GrowthPointGene.pdb
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Source\GrowthPointGene\obj\Debug\GrowthPointGene.dll
+C:\Steam\steamapps\common\RimWorld\Mods\Growth Point Gene\Source\GrowthPointGene\obj\Debug\GrowthPointGene.pdb

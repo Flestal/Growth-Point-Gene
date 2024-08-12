@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <StatDef>
+    <defName>GrowthPointsFactor</defName>
+    <label>Growth points factor</label>
+    <description>the rate at which a child's growth point rises</description>
+    <category>BasicsPawn</category>
+    <toStringStyle>PercentZero</toStringStyle>
+    <showOnAnimals>false</showOnAnimals>
+    <defaultBaseValue>1</defaultBaseValue>
+    <hideAtValue>1</hideAtValue>
+    <minValue>0</minValue>
+    <displayPriorityInCategory>3501</displayPriorityInCategory>
+  </StatDef>
+</Defs>
