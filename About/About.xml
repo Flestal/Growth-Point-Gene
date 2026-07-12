@@ -5,6 +5,7 @@
     <packageId>Flestal.GPG</packageId>
 	<supportedVersions>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>Adds a gene that changes the growth point factor.</description>
 	<loadAfter>
